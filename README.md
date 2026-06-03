@@ -1,5 +1,7 @@
 # BurnProjects Marketplace
 
+Login feature to be implemented secuerly next befor marketplace opens to front end user. 
+
 A Next.js marketplace application for buying and selling items. Features a modern landing page, market listings with search/filter capabilities, and detailed property views.
 
 ## Features
