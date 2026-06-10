@@ -82,10 +82,10 @@ marketplace/
 
 ## Live Demo
 
-The marketplace is deployed on multiple platforms:
+The marketplace is deployed on Vercel platform:
 
 - **Vercel**: [https://website-murex-rho-80.vercel.app/](https://website-murex-rho-80.vercel.app/)
-- **GitHub Pages**: [https://iiwiiinsider.github.io/Website/](https://iiwiiinsider.github.io/Website/)
+
 
 ## Contact
 
